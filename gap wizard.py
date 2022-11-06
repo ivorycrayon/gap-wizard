@@ -1,5 +1,3 @@
-#Created by: William Donald Chaffin
-#Created for: Coupang - Rocket Jikgu US
 #Ver 1.3 - Updated 7/22/22
 
 import os
